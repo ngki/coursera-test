@@ -20,6 +20,13 @@
 	font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
 }
 
+#menu-block{
+	background-color:#D3D3D3;
+	margin:10px;
+	padding:10px;
+	height:700px;
+}
+
 .navbar-brand {
 	height: 100%
 }
